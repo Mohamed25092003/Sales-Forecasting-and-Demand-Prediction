@@ -38,7 +38,7 @@ The notebook in this branch contains the following steps:
 
 ## Link to Interactive Notebook
 
-You can access the interactive notebook (with all outputs) [here](YOUR_NOTEBOOK_URL_HERE).
+You can access the interactive notebook (with all outputs) [here](https://colab.research.google.com/drive/157cE5YADqrmccT3NqQjyNoyg7gO8hsuh?usp=drive_link).
 
 > **Note**: The notebook in this branch has been cleaned of outputs for version control, but you can view and interact with the notebook directly through the provided link.
 
@@ -57,10 +57,8 @@ You can access the interactive notebook (with all outputs) [here](YOUR_NOTEBOOK_
 4. You can use the two XGBoost models (XGBoost_Beverages_Model.pkl and XGBoost_Meat_Model.pkl) for prediction tasks.
 
 ## Files in this Branch
-	- Sales-Forecasting-and-Demand-Prediction.ipynb: The main Jupyter notebook with detailed analysis and model training.
+- **Sales-Forecasting-and-Demand-Prediction.ipynb**: The main Jupyter notebook with detailed analysis and model training.
+- **XGBoost_Beverages_Model.pkl**: The trained XGBoost model for beverages.
+- **XGBoost_Meat_Model.pkl**: The trained XGBoost model for meat.
+- **.gitattributes**: Git attributes file to handle large files.
 
-	- XGBoost_Beverages_Model.pkl: The trained XGBoost model for beverages.
-
-	- XGBoost_Meat_Model.pkl: The trained XGBoost model for meat.
-
-	- .gitattributes: Git attributes file to handle large files.
