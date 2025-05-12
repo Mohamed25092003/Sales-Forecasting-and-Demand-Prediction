@@ -1,0 +1,6 @@
+services:
+  streamlit-app:
+    image: sales-forecasting-app:v1 
+    ports:
+      - "8501:8501"
+    container_name: sales_app 
